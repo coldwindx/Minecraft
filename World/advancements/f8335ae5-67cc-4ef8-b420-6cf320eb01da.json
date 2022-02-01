@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2022-02-01 15:22:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-01-27 21:25:13 +0800"
@@ -1683,7 +1689,8 @@
       "cooked_beef": "2022-01-30 14:06:49 +0800",
       "bread": "2022-01-27 21:25:51 +0800",
       "rotten_flesh": "2022-01-28 13:28:55 +0800",
-      "cooked_salmon": "2022-01-28 21:43:19 +0800"
+      "cooked_salmon": "2022-01-28 21:43:19 +0800",
+      "carrot": "2022-02-01 15:37:31 +0800"
     },
     "done": false
   },
@@ -1846,6 +1853,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-27 21:34:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2022-02-01 15:22:05 +0800"
     },
     "done": true
   },
@@ -2233,6 +2246,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2022-01-27 21:37:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2022-02-01 15:22:05 +0800"
     },
     "done": true
   },
