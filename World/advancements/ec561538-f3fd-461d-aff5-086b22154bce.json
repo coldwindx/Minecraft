@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-03-07 21:07:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2022-02-28 23:34:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-03-07 21:07:29 +0800"
     },
     "done": true
   },
@@ -15,6 +27,12 @@
     "criteria": {
       "minecraft:swamp": "2022-02-23 22:26:44 +0800",
       "minecraft:warm_ocean": "2022-02-03 20:02:40 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2022-03-07 21:07:29 +0800"
     },
     "done": false
   },
