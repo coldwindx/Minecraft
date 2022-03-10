@@ -1629,6 +1629,7 @@
       "minecraft:frozen_river": "2022-02-01 17:50:35 +0800",
       "minecraft:sunflower_plains": "2022-01-28 13:29:21 +0800",
       "minecraft:birch_forest": "2022-01-28 13:32:26 +0800",
+      "minecraft:windswept_hills": "2022-03-09 12:18:15 +0800",
       "minecraft:beach": "2022-01-27 21:23:02 +0800",
       "minecraft:sparse_jungle": "2022-01-28 13:35:05 +0800",
       "minecraft:river": "2022-01-27 21:22:07 +0800",
@@ -2642,6 +2643,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2022-01-27 22:05:38 +0800",
+      "minecraft:turtle": "2022-03-09 12:12:23 +0800",
       "minecraft:sheep": "2022-01-27 22:03:40 +0800",
       "minecraft:cow": "2022-01-27 22:09:35 +0800",
       "minecraft:chicken": "2022-01-28 21:14:58 +0800"
