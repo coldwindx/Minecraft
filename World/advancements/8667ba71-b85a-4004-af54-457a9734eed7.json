@@ -23,6 +23,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-04-26 19:30:34 +0800"
+    },
+    "done": false
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2022-05-18 14:13:18 +0800"
